@@ -26,7 +26,8 @@ Usage:
 
 ## To explore the PowerBI report:
 
-Download the .pbix file included in the repository.
+Download the .pbix file included in the repository or access via [Web](https://app.powerbi.com/view?r=eyJrIjoiMzQ1MDhhM2ItOTI1YS00MGZhLWE2YzItNzY1ZDcyMDM1NDU0IiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9)
+
 Open the file with PowerBI Desktop.
 Use the interactive elements to navigate through various years, municipalities, and financial categories.
 
